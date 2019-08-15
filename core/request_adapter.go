@@ -1,7 +1,7 @@
 // Package adapter provides utility methods that help convert events
 // into an http.Request and http.ResponseWriter
 // The code below is adapted from https://github.com/awslabs/aws-lambda-go-api-proxy/blob/19825165bd2fce09ee70ddbd1d4a9a1f710d64a4/core/request.go
-package adapter
+package core
 
 import (
 	"bytes"
